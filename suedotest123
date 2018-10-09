@@ -28,3 +28,17 @@ Enburkkostnad / Enburk= antalenburk
 //Skriv ut antal burkar
 print antalenpack * 3+ antalburk ”burkar”
 
+Psuedokod 
+
+Uppgift 3
+Åsa = 20 biljetter
+Lustigahuset = 2 biljetter
+Flygandekvasten = 4
+Galnamusen = 3 
+
+Åsa / lustigahuset = kvot1
+Åsa / flygandekvasten = kvot2
+Åsa / galnamusen = kvot3
+Printa lustigahuset tillsammans med kvot1
+Printa galnamusen tillsammans med kvot3
+Printa flygandekvasten tillsammans med kvot2 
