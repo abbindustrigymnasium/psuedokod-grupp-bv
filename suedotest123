@@ -1,0 +1,30 @@
+Psuedokod
+
+Uppgift 2
+Skapa 3 variabler
+Beng = 347 
+Enburk = 13,95
+Ettpack =30
+//Kom ihåg att ettpack innehåller 3 burkar
+
+//Skapar en loop där
+Om Bengt är mer än 30 kr (Ettpack)
+ Ta Bengt - Ettpack 
+
+//Ta ut rest
+Sedan räknar vi ut hur många burkar vi har hittills och skapar 2 nya variabler 
+Bengt - rest=Ettpackkostnad
+Ettpackkostnad /30 = antalenpack
+
+//Skapa en loop där
+Om rest är mer än 13,95
+rest – Enburk = 
+
+//ta ut slutrest
+
+rest-slutrest=Enburkkostnad
+Enburkkostnad / Enburk= antalenburk
+ 
+//Skriv ut antal burkar
+print antalenpack * 3+ antalburk ”burkar”
+
